@@ -1,5 +1,5 @@
-# Modify this portfolio
+# Brians Portfolio
 
 [Portfolio](https://kimbrow-portfolio.netlify.app/)
 
-Make it your own! 
+
