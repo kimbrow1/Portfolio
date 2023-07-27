@@ -15,8 +15,8 @@
         "startDate": "2023",
         "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/animal-shelter/cthulhu.jpg",
+          "images/portfolio/animal-shelter/animals-with-horns.webp"
         ],
         "url": "",
         "technologies": [
@@ -36,13 +36,13 @@
       },
       {
         "title": "Fishing HotSpots",
-        "startDate": "2018",
+        "startDate": "2023",
         "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/photography/download.jpeg",
+          "images/portfolio/photography/Old hickory Lake.jpeg"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/kimbrow1",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -59,8 +59,8 @@
         "startDate": "2023",
         "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/adventure/download.jpg",
+          "images/portfolio/adventure/istockphoto-1217932459-612x612.jpg"
         ],
         "url": "https://github.com/kimbrow1",
         "technologies": [
@@ -81,30 +81,27 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Codex Academy",
+        "title": "FullStack Developer",
+        "years": "01.2023 - 09.2023",
         "mainTech": [
-          "Angular 8/9/10"
+          "Full Stack Developer"
         ],
         "technologies": [
           "REST API",
-          "RxJS",
           "JavaScript",
           "Bootstrap",
           "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "React"
+       
         ]
       },
       {
-        "company": "Serros Solutions",
+        "company": "40 AU",
         "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "years": "01.22 - 07.2023",
         "mainTech": [
-          "Angular 7/8"
+          "FullStack"
         ],
         "technologies": [
           "RxJS",
