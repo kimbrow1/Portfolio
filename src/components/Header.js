@@ -105,6 +105,7 @@ class Header extends Component {
               <br/>
               <h1 className="mb-0">
                 {name}
+                
               </h1>
               <div className="title-container">
                 <HeaderTitleTypeAnimation />
