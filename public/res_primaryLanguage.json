@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 Brian Kimbrow. I am currently located in Nashville TN. I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description": "👋 Brian Kimbrow. I am currently located in Nashville TN. I'm working with Vite, React, Bootstrap and currently learning something new everyday. What you are seeing now is portfolio of what ive been working on.  Thank for taking the time to look at my portfolio 😄",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -13,7 +13,7 @@
       {
         "title": "Horned Beasts",
         "startDate": "2023",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "description": "This is an application that displays images and information of horned animals. This application will allow users to filter the images by the number of horns and can choose their favorite image. In addition to that I focused on the component structure of this application and I used Vite with filled components and Bootstrap",
         "images": [
           "images/portfolio/animal-shelter/cthulhu.jpg",
           "images/portfolio/animal-shelter/animals-with-horns.webp"
@@ -21,29 +21,41 @@
         "url": "",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "name": "HTML 5",
+            "class": "devicon-html5-plain",
+            "level": "95"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "name": "CSS 3",
+            "class": "devicon-css3-plain",
+            "level": "95"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          } 
         ]
       },
       {
         "title": "Fishing HotSpots",
         "startDate": "2023",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "description": "Fishing HotSpots project was created to showcase three of Tennessee's hottest fishing spots and also, to provide data on different species of fish in those said spots. Users are then able to vote on which lake is the hottest spot amongst the three which are: Old Hickory, Percy Priest, and Radnor Lakes",
         "images": [
           "images/portfolio/photography/download.jpeg",
           "images/portfolio/photography/Old hickory Lake.jpeg"
         ],
         "url": "https://github.com/kimbrow1",
         "technologies": [
+          {
+            "name": "HTML 5",
+            "class": "devicon-html5-plain",
+            "level": "95"
+          },
+          {
+            "name": "CSS 3",
+            "class": "devicon-css3-plain",
+            "level": "95"
+          },
           {
             "class": "devicon-react-original",
             "name": "React"
@@ -57,24 +69,27 @@
       {
         "title": "Hot Dog Stand",
         "startDate": "2023",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "description": "During this project I built an app that displays three potential products side-by-side-by-side, without favoring any single product.This app’s purpose is to have members choose which product, of the three displayed images, that they would be most interested in seeing as a new creation. I stored each anonymous vote, calculated totals, and visually displayed the results. In order to make the selection process more ideal for users this app only allows 25 selections. The notion for this is to make sure that the team keeps up with the total number of clicks and percentage of the times each image was clicked.",
         "images": [
           "images/portfolio/adventure/download.jpg",
           "images/portfolio/adventure/istockphoto-1217932459-612x612.jpg"
         ],
         "url": "https://github.com/kimbrow1",
         "technologies": [
+
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "name": "HTML 5",
+            "class": "devicon-html5-plain",
+            "level": "95"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "name": "CSS 3",
+            "class": "devicon-css3-plain",
+            "level": "95"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           }
         ]
       }
@@ -104,11 +119,13 @@
           "FullStack"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
+          "HTML",
+          "CSS",
+          "WordPress",
           "JavaScript",
-          "DHTMLX Gantt"
+          "Bootstrap",
+          "React",
+          "REST API"
         ]
       }
     ]
